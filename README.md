@@ -17,7 +17,7 @@
 + 禁止使用该项目进行任何盈利活动，对一切非法使用所产生的后果，本人概不负责。
 
 ## 自动签到使用方法（支持多个机场）
-### 1. 利用Github Actions签到（推荐）
+### 1. 利用用Github Actions签到（推荐）
 + 点击右上角`Fork`克隆本项目
 + ~~修改项目为私有，具体方法见[Github更改仓库的可见性](https://docs.github.com/cn/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility#changing-a-repositorys-visibility)~~
 + ~~编辑`.github/actions/checkin/config.json`，填写机场域名、邮箱及密码~~
